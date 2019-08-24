@@ -1,8 +1,3 @@
-'''
-Group members:
-Vaibhav Gautam - 1710110368
-Rohan Pandey   - 1710110419
-
 Program:
 1.Generating magic square of dimension 3 x 3.
 2.Implementing 2-D tic tac toe using magic square concept.
